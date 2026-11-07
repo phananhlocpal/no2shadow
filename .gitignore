@@ -1,0 +1,16 @@
+# generated data, checkpoints and results
+data/
+models/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/

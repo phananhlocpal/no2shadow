@@ -1,0 +1,14 @@
+{
+  "beijing": {
+    "url": "https://archive.ics.uci.edu/static/public/501/beijing+multi+site+air+quality+data.zip",
+    "sha256": "b04da438b2f331ac0ffd45aebdfec0d20d2367feb5f6948c4b1f7ce1191e33c4"
+  },
+  "kdd2018": {
+    "url": "https://zenodo.org/records/3898318/files/kdd_cup_2018_dataset_with_missing_values.zip?download=1",
+    "sha256": "0c97f35d6856fb0b905e930f2bfe5ff7011ee0ccc75daf95ec5cf40db0853f69"
+  },
+  "epa_aqs_hourly_no2": {
+    "url": "https://aqs.epa.gov/aqsweb/airdata/hourly_42602_{year}.zip",
+    "note": "EPA AQS pre-generated hourly NO2 files (parameter 42602); Los Angeles County is state 06, county 037"
+  }
+}

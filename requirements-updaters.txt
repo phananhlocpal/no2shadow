@@ -1,0 +1,2 @@
+salesforce-merlion==2.0.4
+online_conformal @ git+https://github.com/salesforce/online_conformal@95790a9b9e4061166e6d7a8a13282e019b1a8663
